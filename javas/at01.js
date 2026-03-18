@@ -1,4 +1,4 @@
-function somanumeros(){
+function somarNumeros(){
     let soma = 0;
     let continuar = true;
     while(continuar){
@@ -14,3 +14,4 @@ function somanumeros(){
     }
     alert("A soma dos numeros é:" + soma);
 }
+
