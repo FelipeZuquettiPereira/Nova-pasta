@@ -5,4 +5,6 @@ function ContagemNasa(){
   alert("Contagem: " + i);
         
     }
+
+    alert("Lançamento Realizado!");
 }
